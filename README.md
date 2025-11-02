@@ -25,7 +25,7 @@ The matching icon theme is a mashup of the Yaru-sage theme and the outdated gray
    sudo mv Downloads/Yaru-stone-icons /usr/share/icons
    ```
     
-```bash
+   ```bash
    sudo mv Downloads/Yaru-stone-dark-icons /usr/share/icons
    ```
 

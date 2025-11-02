@@ -1,6 +1,6 @@
 # Yaru-Stone Theme
 
-A modified version of the **Yaru-olive** GTK theme, with all greens replaced by greys — providing a neutral color option that Yaru doesn’t include by default.
+A modified version of the **Yaru-olive** GTK theme, with all greens replaced by greys — providing the neutral color option that Yaru doesn’t include.
 A matching icon theme that's a mashup of the Yaru-sage theme and the outdated gray theme from https://github.com/Jannomag/Yaru-Colors. I replaced as many icons as possible with the gray ones and left the rest as sage, since sage is the closest color to grey.
 
 ## Requirements

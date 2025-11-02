@@ -13,8 +13,11 @@ A modified version of the **Yaru-olive** theme, with all greens replaced by grey
 2. **Move** the extracted folders to the system theme directory using the following commands:
 
    ```bash
-   sudo mv ~/Downloads/Yaru-stone /usr/share/themes
-   sudo mv ~/Downloads/Yaru-stone-dark /usr/share/themes
+   sudo mv Downloads/Yaru-stone /usr/share/themes
+   ```
+
+   ```bash
+   sudo mv Downloads/Yaru-stone-dark /usr/share/themes
    ```
 
 ## Recommended Window Manager Themes

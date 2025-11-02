@@ -1,7 +1,3 @@
-Here’s your text converted into a clean, organized **Markdown** format:
-
----
-
 # Yaru-Stone Theme
 
 A modified version of the **Yaru-olive** theme, with all greens replaced by greys — providing a neutral color option that Yaru doesn’t include by default.

@@ -44,4 +44,10 @@ This theme pairs well with the following **xfwm4** themes:
 
 
 
+
+
+
+
+
+
 * Tested on **Debian 13 (Xfce 4.20)**.

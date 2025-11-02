@@ -8,7 +8,7 @@ A matching icon theme that's a mashup of the Yaru-sage theme and the outdated gr
 * The **yaru-theme-gtk** package must be installed prior to using this color extension for the GTK theme.
 * The **yaru-theme-icon** package must be installed prior using this color extension for the icon theme.
 * The **Yaru-stone-icons** theme must be installed prior to using the **Yaru-stone-dark-icons** theme.
-  _This is because the dark icons theme is just an index.theme file that inherits the icons from the light theme. Its only purpose is to allow desktop envirements to automatically set the Yaru-stone-dark GTK theme when it's selected, and vice-versa. Xfce doesn't have an option for automatically matching themes and icons so it's useless for Xfce.
+  _This is because the dark icons theme is just an index.theme file that inherits the icons from the light theme. Its only purpose is to allow desktop envirements to automatically set the Yaru-stone-dark GTK theme when it's selected, and vice-versa. Xfce doesn't have an option for automatically matching themes and icons so it's useless for Xfce._
   
 
 ## Installation
